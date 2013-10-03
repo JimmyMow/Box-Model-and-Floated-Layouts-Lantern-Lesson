@@ -1,0 +1,70 @@
+body {
+  background-color: #909090;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+nav {
+  float: right;
+  padding: 5px 0px 0px 0px;
+  margin: 5px 0px 0px 0px;
+}
+
+h1 {
+  padding: auto;
+  background-color: white;
+  text-shadow: 3px 5px 5px gray;
+ }
+
+h2 {
+  text-align: center;
+  text-shadow: 1px 3px 3px red;
+}
+
+form {
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
+iframe {
+  margin-left: 10px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.top_ten_users {
+  float: right;
+  top: 100px;
+  margin-top: 0px;
+  margin-right: 50px;
+}
+
+.top_ten_calls {
+  float: left;
+  top: 100px;
+  margin-left: 50px;
+}
+
+#log_in{
+  background-color: red;
+  float: right;
+  position: relative;
+  padding: 0px 10px 0px 0px;
+  margin: 0px 10px 0px 0px;
+  left: -100px;
+  top: 50%;
+}
+
+#username {
+  margin-bottom: 10px;
+}
+
+#password {
+  margin-left: 2px;
+}
+
